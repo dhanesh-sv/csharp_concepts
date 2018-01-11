@@ -1,0 +1,8 @@
+Constructors:
+
+1)It is a special method(name same as classname) in a class responsible for initializing variables of that class.
+2)It does not return a value.
+3)To create an instance of the class we need constructors that are acccessible.
+4)The compiler defines an implicit constructor and initializes the variables with default values if we did not define the constructor.
+5)Implicitly defined constructors are parameterless and also called as Default constructors.
+6)Implicit constructors are only public.
